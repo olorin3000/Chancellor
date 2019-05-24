@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": {
+    "slider": [
+      {
+        "image": "https://www.meldmagazine.com.au/wp-content/uploads/2013/06/How-to-get-the-best-discounts-when-you-shop.jpg",
+        "title": "Акция 1",
+        "discount": "- 20%",
+        "catalogId": "234"
+      },
+      {
+        "image": "http://static.guim.co.uk/sys-images/Education/Pix/pictures/2013/10/29/1383050018571/A-woman-sticks-a-discount-008.jpg",
+        "title": "Акция 2",
+        "discount": "- 50 %",
+        "catalogId": "235"
+      },
+      {
+        "image": "https://i.dailymail.co.uk/i/pix/2013/07/29/article-2380669-1B0C2048000005DC-738_634x372.jpg",
+        "title": "Акция 3",
+        "discount": "- 75 %",
+        "catalogId": "102"
+      }
+    ],
+    "categories": [
+      {
+        "image": "https://ua.all.biz/img/ua/catalog/2611001.jpeg",
+        "title": "Все для офиса",
+        "categoryId": "1025",
+        "subCategory": [
+          {
+            "title": "Офисные стулья",
+            "catalogId": "101"
+          },
+          {
+            "title": "Офисные столы",
+            "catalogId": "102"
+          }
+        ]
+      },
+      {
+        "image": "https://static.detmir.st/medias/sys_master/images/images/h3e/h62/9914841399326.png",
+        "title": "Все для школы",
+        "categoryId": "2344",
+        "subCategory": [
+          {
+            "title": "Карандаши",
+            "catalogId": "234"
+          },
+          {
+            "title": "Рюкзаки",
+            "catalogId": "235"
+          }
+        ]
+      }
+    ]
+  }
+}

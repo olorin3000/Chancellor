@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": [
+    {
+      "productId": "671930",
+      "title": "Карандаши 6 цветов \"Frozen\"",
+      "price": "56",
+      "image": "https://img.panama.ua/products_pictures/z/zc/zcztye1cyjcr.jpg",
+      "description": "Предназначены для рисования.Количество карандашей: 6 шт. Корпус карандаша трёхгранный, изготовлен из древесины, соответствует цвету стержня. Карандаши не ломаются при падении и заточке благодаря применению специальных технологий центрирования и проклейки.",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/z/zc/zcztye1cyjcr.jpg",
+        "https://img.panama.ua/products_pictures/t/tv/tvyrk6pcnowb.jpg"
+      ]
+    },
+    {
+      "productId": "23423",
+      "title": "Карандаши 6 цветов \"Trolls Dream\"",
+      "price": "58",
+      "image": "https://img.panama.ua/products_pictures/7/7u/7uaa0hc0mmth.jpg",
+      "description": "описание товара",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/7/7u/7uaa0hc0mmth.jpg",
+        "https://img.panama.ua/products_pictures/0/0w/0wz3ldydtuip.jpg"
+      ]
+    },
+    {
+      "productId": "671564",
+      "title": "Карандаши цветные \"Ergonomic\"",
+      "price": "120",
+      "image": "https://img.panama.ua/products_pictures/y/yq/yqedorppe7uj.jpg",
+      "description": "Предназначены для рисования. Количество карандашей: 12 шт.Корпус трёхгранный, изготовлен из древесины. Благодаря применению специальных технологий центрирования и проклейки стержня в корпусе карандаши не ломаются при затачивании, а также стойкие к падению.",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/y/yq/yqedorppe7uj.jpg",
+        "https://img.panama.ua/products_pictures/h/hj/hjestaskijch.jpg"
+      ]
+    },
+    {
+      "productId": "660630",
+      "title": "Карандаши восковые для обучения письму и рисованию \"Griffix\", 8 цветов - Pelikan",
+      "price": "695",
+      "image": "https://img.panama.ua/products_pictures/a/aq/aq9fmilmghkk.png",
+      "description": "Важным подготовительным этапом к обучению письму является рисование. Такое занятие способствует формированию у ребенка навыков удерживать пишущий инструмент тремя пальцами. Отлично справится с этой задачей, обеспечив малышу занимательный и одновременно полезный досуг, который подготовит его к школе, умная система обучения письму Griffix® Pelikan от немецкого бренда Pelika.",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/a/aq/aq9fmilmghkk.png",
+        "https://img.panama.ua/products_pictures/c/cd/cdlbz7gwr5ct.png"
+      ]
+    },
+    {
+      "productId": "26363",
+      "title": "Акварельные цветные карандаши Mondeluz, 36шт - Koh-I-Noor",
+      "price": "1477",
+      "image": "https://img.panama.ua/products_pictures/p/pl/pluaoitsts1j.jpg",
+      "description": "Важным подготовительным этапом к обучению письму является рисование. Такое занятие способствует формированию у ребенка навыков удерживать пишущий инструмент тремя пальцами. Отлично справится с этой задачей, обеспечив малышу занимательный и одновременно полезный досуг, который подготовит его к школе, умная система обучения письму Griffix® Pelikan от немецкого бренда Pelika.",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/p/pl/pluaoitsts1j.jpg",
+        "https://img.panama.ua/products_pictures/q/qd/qdxfocb6qasv.jpg"
+      ]
+    }
+  ]
+}

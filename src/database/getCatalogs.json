@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "data": [
+    {
+      "image": "https://ua.all.biz/img/ua/catalog/2611001.jpeg",
+      "title": "Все для офиса",
+      "categoryId": "1025",
+      "subCategory": [
+        {
+          "title": "Офисные стулья",
+          "catalogId": "101"
+        },
+        {
+          "title": "Офисные столы",
+          "catalogId": "102"
+        }
+      ]
+    },
+    {
+      "image": "https://static.detmir.st/medias/sys_master/images/images/h3e/h62/9914841399326.png",
+      "title": "Все для школы",
+      "categoryId": "2344",
+      "subCategory": [
+        {
+          "title": "Карандаши",
+          "catalogId": "234"
+        },
+        {
+          "title": "Рюкзаки",
+          "catalogId": "235"
+        }
+      ]
+    }
+  ]
+}

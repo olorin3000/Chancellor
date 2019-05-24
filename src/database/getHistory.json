@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": [
+    {
+      "productId": "671930",
+      "title": "Карандаши 6 цветов \"Frozen\"",
+      "price": "56",
+      "image": "https://img.panama.ua/products_pictures/z/zc/zcztye1cyjcr.jpg",
+      "date": "20.03.2019 14:34",
+      "status": "Выполнено",
+      "description": "Предназначены для рисования.Количество карандашей: 6 шт. Корпус карандаша трёхгранный, изготовлен из древесины, соответствует цвету стержня. Карандаши не ломаются при падении и заточке благодаря применению специальных технологий центрирования и проклейки.",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/z/zc/zcztye1cyjcr.jpg",
+        "https://img.panama.ua/products_pictures/t/tv/tvyrk6pcnowb.jpg"
+      ]
+    },
+    {
+      "productId": "23423",
+      "title": "Карандаши 6 цветов \"Trolls Dream\"",
+      "price": "58",
+      "image": "https://img.panama.ua/products_pictures/7/7u/7uaa0hc0mmth.jpg",
+      "date": "20.03.2019 14:34",
+      "status": "Выполнено",
+      "description": "описание товара",
+      "sliderImages": [
+        "https://img.panama.ua/products_pictures/7/7u/7uaa0hc0mmth.jpg",
+        "https://img.panama.ua/products_pictures/0/0w/0wz3ldydtuip.jpg"
+      ]
+    }
+  ]
+}
